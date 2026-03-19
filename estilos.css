@@ -52,3 +52,16 @@ footer {
     background-color: navy;
     color: white;
 }
+
+.tarjetas-tecnicas {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.tarjetas-tecnicas article {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #a4a4a4;
+    flex: 1;
+}
